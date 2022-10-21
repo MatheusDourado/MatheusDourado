@@ -54,6 +54,8 @@
 
 <br>
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 Thanks for visiting.
 
 Hope we can connect! o/
